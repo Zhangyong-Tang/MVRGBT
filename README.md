@@ -6,11 +6,11 @@
 
 **Selection Results**
 
-LasHeR:
+## LasHeR:
 
 <img src="figs/results-LasHeR.png" width="600">
 
-MV-RGBT:
+## MV-RGBT:
 
 <img src="figs/results-MV-RGBT.png" width="600">
 
