@@ -2,13 +2,13 @@
 
 This main contributions are:
 
- - [x]A new benchmark, MV-RGBT, is collected to bridge the gap between existing benchmarks and the data presented in MMN scenarios. Furthermore, according to the modality validity, MV-RGBT can be divided into two subsets, MV-RGBT-RGB and MV-RGBT-TIR, providing an in-depth analysis of the methods in a compositional way.
+ - [x] A new benchmark, MV-RGBT, is collected to bridge the gap between existing benchmarks and the data presented in MMN scenarios. Furthermore, according to the modality validity, MV-RGBT can be divided into two subsets, MV-RGBT-RGB and MV-RGBT-TIR, providing an in-depth analysis of the methods in a compositional way.
 
- - [x]A new problem, when to fuse, is introduced to explore the necessity of multi-modal fusion. Through our investigation, it is demonstrated that fusion does not consistently improve final performance, particularly in MMN scenarios.
+ - [x] A new problem, when to fuse, is introduced to explore the necessity of multi-modal fusion. Through our investigation, it is demonstrated that fusion does not consistently improve final performance, particularly in MMN scenarios.
 
- - [x]A new method, MoETrack, is derived with three tracking heads (experts), offering a more flexible way to deal with both the RGB- and TIR-specific challenges by adaptively switching the prediction to the one from the most reliable expert.
+ - [x] A new method, MoETrack, is derived with three tracking heads (experts), offering a more flexible way to deal with both the RGB- and TIR-specific challenges by adaptively switching the prediction to the one from the most reliable expert.
 
- - [x]Extensive experiments demonstrate that MoETrack achieves new state-of-the-art results on several benchmarks, including MV-RGBT, RGBT234, LasHeR, and VTUAV-ST.
+ - [x] Extensive experiments demonstrate that MoETrack achieves new state-of-the-art results on several benchmarks, including MV-RGBT, RGBT234, LasHeR, and VTUAV-ST.
 
 ## Benchmark Data Comparison
 
