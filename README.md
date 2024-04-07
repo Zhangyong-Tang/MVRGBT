@@ -8,7 +8,7 @@
 
 LasHeR:
 
-<img src="figs/results-lasher.png" width="600">
+<img src="figs/results-LasHeR.png" width="600">
 
 MV-RGBT:
 
