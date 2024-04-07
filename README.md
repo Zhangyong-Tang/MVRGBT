@@ -1,6 +1,6 @@
 # Rethinking RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method
 
-This main contributions are:
+⭐ This main contributions are:
 
  - [x] A new benchmark, MV-RGBT, and a new way for in-depth analysis of the methods.
 
