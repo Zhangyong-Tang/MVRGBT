@@ -1,4 +1,4 @@
-# Rethinking RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method
+# Revisiting the RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method
 
 ⭐ This main contributions are:
 
