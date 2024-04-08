@@ -10,7 +10,7 @@ clc; clear; close all;
 addpath('./utils/');
 addpath('./sequence_evaluation_config/');
 
-dataset_name = 'MV-RGBT'; % ['AntiUAV600', 'HalDrone']
+dataset_name = 'MV-RGBT'; 
 
 tmp_mat_path  = './tmp_mat/';          % path to save temporary results
 % path_anno     = ['./annos/' dataset_name '/'];            % path to annotations
