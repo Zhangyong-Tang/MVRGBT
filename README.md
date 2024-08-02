@@ -13,12 +13,9 @@
 ## Benchmark Data Comparison
 ### ⭐ MV-RGBT will be published after this work accepted!
 
+<img src="ER_Cat_Lawn0.gif" width="800">
 
-https://github.com/user-attachments/assets/2b8201ca-2f9c-4f18-879a-ce4b717f8e77
-
-
-https://github.com/user-attachments/assets/f33658d2-3d07-49bc-9b3d-78bd00cf4f64
-
+<img src="ET_Fish_River0.gif" width="800">
 
 <img src="figs/data.png" width="600">
 
