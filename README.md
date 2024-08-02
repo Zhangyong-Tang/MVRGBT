@@ -15,7 +15,7 @@
 
 <img src="ER_Cat_Lawn0.gif" width="800">
 
-<img src="ET_Fish_River0.gif" width="800">
+<img src="ET_Fish_River02.gif" width="800">
 
 <img src="figs/data.png" width="600">
 
