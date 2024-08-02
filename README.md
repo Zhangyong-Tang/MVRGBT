@@ -13,6 +13,12 @@
 ## Benchmark Data Comparison
 ### ⭐ MV-RGBT will be published after this work accepted!
 
+
+
+https://github.com/user-attachments/assets/2b8201ca-2f9c-4f18-879a-ce4b717f8e77
+
+
+
 <img src="figs/data.png" width="600">
 
 ## Selection Results
