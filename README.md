@@ -11,6 +11,7 @@
  - [x] New state-of-the-art results on several benchmarks, including MV-RGBT, RGBT234, LasHeR, and VTUAV-ST.
 
 ## Benchmark Data Comparison
+### ⭐ MV-RGBT will be published after this work accepted!
 
 <img src="figs/data.png" width="600">
 
