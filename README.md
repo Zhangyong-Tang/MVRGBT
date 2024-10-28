@@ -9,6 +9,8 @@
  - [x] A new method, MoETrack, is derived with a mixture of experts.
 
  - [x] New state-of-the-art results on several benchmarks, including MV-RGBT, RGBT234, LasHeR, and VTUAV-ST.
+ 
+ - [x] The code will be available [here](https://github.com/Zhangyong-Tang/MoETrack)
 
 ## Benchmark Data Comparison
 ### ⭐ MV-RGBT will be published after this work accepted!
