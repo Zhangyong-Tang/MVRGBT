@@ -12,6 +12,8 @@
  
  - [x] The code will be available [here](https://github.com/Zhangyong-Tang/MoETrack)
 
+🫵Find our survey work at another [repo](https://github.com/Zhangyong-Tang/Survey-for-MultiModal-Visual-Object-Tracking)
+
 ## Benchmark Data Comparison
 ### ⭐ MV-RGBT will be published after this work accepted!
 
