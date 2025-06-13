@@ -12,24 +12,27 @@
 🫵Find our survey work at [repo](https://github.com/Zhangyong-Tang/Survey-for-MultiModal-Visual-Object-Tracking)
 
 ## Benchmark Data Comparison
-### ⭐ Data in MV-RGBT
+### ⭐ Comparisons with Data in MV-RGBT and LasHeR
+Data-Level
+<img src="figs/data.png" width="600">
 
+Distribution level
+![1515eb339542550676a50a6d2c5aef6](https://github.com/user-attachments/assets/eb536543-5f25-4603-8fb0-e020350448f3)
+
+Data examples from MV-RGBT
 <img src="ER_Cat_Lawn0.gif" width="800">
 
 <img src="ET_Fish_River02.gif" width="800">
 
+## Qualitative comparisons
+### Using a single modality in two typical MMW scenarios
+![4c088edb97677cb0a51c7f192b2f1b7](https://github.com/user-attachments/assets/aae24dfa-9cd4-46e7-8251-7882c55cb0af)
+### Using a single modality in two typical MMW scenarios
 
-<img src="figs/data.png" width="600">
-
-## Selection Results
-
-LasHeR:
----
-<img src="figs/results-LasHeR.png" width="600">
-
-MV-RGBT:
----
-<img src="figs/results-MV-RGBT.png" width="600">
+## The significane of MV-RGBT
+- [x] Multi-modal vs. single-modal
+- [x] RGB vs. TIR
+![image](https://github.com/user-attachments/assets/88e8ca09-6505-4f91-9ea6-a1f9832d7089)
 
 ⭐ More detailed introduction of the proposed method, MoETrack, is available [here](https://github.com/Zhangyong-Tang/MoETrack)
 
