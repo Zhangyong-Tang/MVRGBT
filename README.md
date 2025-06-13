@@ -13,10 +13,7 @@
 
 ## Benchmark Data Comparison
 ### ⭐ Comparisons with Data in MV-RGBT and LasHeR
-Data-Level
-<img src="figs/data.png" width="600">
 
-Distribution level
 ![1515eb339542550676a50a6d2c5aef6](https://github.com/user-attachments/assets/eb536543-5f25-4603-8fb0-e020350448f3)
 
 Data examples from MV-RGBT
