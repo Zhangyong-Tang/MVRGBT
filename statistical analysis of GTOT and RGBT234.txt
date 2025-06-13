@@ -1,0 +1,63 @@
+Investigated videos of GTOT:
+
+BusScale1                 0
+Crossing                   0
+FastCarNig                0
+FastMotor                 0
+Football                    0
+GoTogether              0
+LightOcc                   0
+MinibusNig               0
+Motorbike1               0
+fastCar2                    0
+
+
+
+Investigated videos of RGBT234:
+
+afterrain                      0
+baginhand                   0
+baketballwaliking         0
+bikemove1                  0
+blackwoman                0
+car20                          0
+carred                         0
+children2                    0
+children3                    0
+elecbikewithlight         0
+face1                          0
+floor-1                        0
+fog6                           0
+graycar2                     0
+kettle                         0
+luggage                     0
+man28                        0
+man7                         0
+mandrivecar              0
+manonelecbike          0
+manontricycle            0
+oldwoman                0
+orangeman1             0
+people                     0
+push                         0 
+redcar2                    0
+run                           0
+scooter                     0
+shake                       0
+soccer2                    0
+takeout                    0
+tallman                     0
+threeman2               0
+together                  0
+toy3                         0
+tricycle1                  0
+tricycle2                  0
+tricycletwo               0
+twowoman1            0
+walking40                0
+walkingman41          0
+walkingtogether       0
+woman4                  0
+woman6                  0
+womancross            0
+yellowcar                 0
