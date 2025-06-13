@@ -1,4 +1,4 @@
-# Revisiting the RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Solution
+# MV-RGBT
 
 ⭐ This main contributions are:
 
