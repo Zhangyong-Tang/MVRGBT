@@ -22,9 +22,11 @@ Data examples from MV-RGBT
 <img src="ET_Fish_River02.gif" width="800">
 
 ## Qualitative comparisons
-### Using a single modality in two typical MMW scenarios
+Using a single modality in two typical MMW scenarios
 ![4c088edb97677cb0a51c7f192b2f1b7](https://github.com/user-attachments/assets/aae24dfa-9cd4-46e7-8251-7882c55cb0af)
-### Using a single modality in two typical MMW scenarios
+
+## Statistics of MV-RGBT
+![cbcb0dc01e0a8841ddeb4c603af53ff](https://github.com/user-attachments/assets/3f76079c-81d6-4bf3-b4f8-261f4725d55f)
 
 ## The significane of MV-RGBT
 - [x] Multi-modal vs. single-modal
