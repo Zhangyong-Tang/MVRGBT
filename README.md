@@ -12,7 +12,7 @@
 🫵Find our survey work at [repo](https://github.com/Zhangyong-Tang/Survey-for-MultiModal-Visual-Object-Tracking)
 
 ## Benchmark Data Comparison
-### ⭐ MV-RGBT will be published after this work accepted!
+### ⭐ Data in MV-RGBT
 
 <img src="ER_Cat_Lawn0.gif" width="800">
 
