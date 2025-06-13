@@ -1,18 +1,15 @@
-# MV-RGBT
+# Motivation
 
-⭐ This main contributions are:
+![8ceb2c866b3b579fffd9f52826f6859](https://github.com/user-attachments/assets/db23fed8-8052-4a77-a32a-cef4b4e9fb3d)
 
- - [x] A new benchmark, MV-RGBT, and a new way for in-depth analysis of the methods.
+# 🍰Contributions
+(1) A new benchmark, MV-RGBT, is collected to make it representative of multi-modal warranting scenarios, filling the gap between the data in current benchmarks and imaging conditions which motivate RGBT tracking.
 
- - [x] A new problem, when to fuse, is introduced to explore the necessity of multi-modal fusion.
+(2) A new problem, `when to fuse', is posed to develop reliable fusion strategies for RGBT trackers, as in MMW scenarios multi-modal information fusion may be counterproductive. To facilitate its discussion, a new solution, MoETrack, with multiple tracking experts is proposed. It performs state-of-the-art on several benchmarks, including MV-RGBT, LasHeR, and VTUAV-ST.
 
- - [x] A new method, MoETrack, is derived with a mixture of experts.
+(3) A new compositional perspective for method evaluation is provided by categorising MV-RGBT into two subsets, MV-RGBT-RGB and MV-RGBT-TIR, promoting a novel in-depth analysis and offering insightful recommendations for future developments in RGBT tracking.
 
- - [x] New state-of-the-art results on several benchmarks, including MV-RGBT, RGBT234, LasHeR, and VTUAV-ST.
- 
- - [x] The code will be available [here](https://github.com/Zhangyong-Tang/MoETrack)
-
-🫵Find our survey work at another [repo](https://github.com/Zhangyong-Tang/Survey-for-MultiModal-Visual-Object-Tracking)
+🫵Find our survey work at [repo](https://github.com/Zhangyong-Tang/Survey-for-MultiModal-Visual-Object-Tracking)
 
 ## Benchmark Data Comparison
 ### ⭐ MV-RGBT will be published after this work accepted!
@@ -33,4 +30,6 @@ LasHeR:
 MV-RGBT:
 ---
 <img src="figs/results-MV-RGBT.png" width="600">
+
+⭐ More detailed introduction of the proposed method, MoETrack, is available [here](https://github.com/Zhangyong-Tang/MoETrack)
 
