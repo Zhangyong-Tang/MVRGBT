@@ -37,7 +37,7 @@ Using a single modality in two typical MMW scenarios
 - [x] Data is availble at [here](https://pan.baidu.com/s/1G60oQbaQ7UBi4g-bH2Q3YA) with code TZYD
 - [x] Toolkit is available at [here](https://pan.baidu.com/s/1XYlrLbBpSBXndbjWEDKSQw ) with code TZYD
 
-ATTENTION：When testing, please follow 'test_Mydataset.py' to load the category information of MV-RGBT.
+⭐ ATTENTION：When testing, please follow 'test_Mydataset.py' to load the category information of MV-RGBT.
 
 ⭐ More detailed introduction of the proposed method, MoETrack, is available [here](https://github.com/Zhangyong-Tang/MoETrack)
 
